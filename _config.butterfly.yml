@@ -58,7 +58,7 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: 
+favicon: /img/logo.jpg
 
 avatar:
   img: /img/logo.jpg
@@ -167,7 +167,7 @@ subtitle:
   # 1 - hitokoto.cn
   # 2 - https://api.aa1.cn/doc/yiyan.html
   # 3 - jinrishici.com
-  source: 1
+  source: false
   # If you close the typewriter effect, the subtitle will only show the first line of sub
   sub:
     - 日暮诗成天又雪，与梅并作十分春
