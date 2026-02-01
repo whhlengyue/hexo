@@ -22,7 +22,7 @@ menu:
   时间轴: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-box-archive
   分类: /categories/ || fas fa-folder-open
- #友链: /link/ || fas fa-link
+  友链: /link/ || fas fa-link
 
 
 # --------------------------------------
