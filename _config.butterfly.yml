@@ -75,7 +75,7 @@ disable_top_img: false
 default_top_img: 
 
 # The banner image of index page
-index_img: https://oss.012700.xyz/butterfly/2024/10/index.jpg
+index_img: /img/top.jpg
 
 # The banner image of archive page
 archive_img:
