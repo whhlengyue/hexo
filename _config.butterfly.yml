@@ -18,12 +18,12 @@ nav:
   fixed: false
 
 menu:
-首页: / || fas fa-home
-时间轴: /archives/ || fas fa-archive
-标签: /tags/ || fas fa-tags
-分类: /categories/ || fas fa-folder-open
-友链: /link/ || fas fa-link
-关于: /about/ || fas fa-heart
+  首页: / || fas fa-house
+  时间轴: /archives/ || fas fa-archive
+  标签: /tags/ || fas fa-box-archive
+  分类: /categories/ || fas fa-folder-open
+  友链: /link/ || fas fa-link
+  关于: /about/ || fas fa-info
 
 
 # --------------------------------------
@@ -49,7 +49,7 @@ code_blocks:
 # Formal:
 #   icon: link || the description || color
 social:
-   fab fa-qq: http://wpa.qq.com/msgrd?v=3&uin=2470917596&site=qq&menu=yes || QQ || '#24292e'
+   fab fa-qq: https://qm.qq.com/q/JhnUQx4ikK || QQ || '#24292e'
    fab fa-weixin: weixin://dl/add?contact=tdgy107210015 || 微信 || '#24292e'
    fas fa-envelope: mailto:2470917596@qq.com || Email || '#24292e'
    fab fa-github: https://github.com/whhlengyue || Github || '#24292e'
