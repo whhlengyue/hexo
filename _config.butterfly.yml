@@ -18,10 +18,19 @@ nav:
   fixed: false
 
 menu:
-  # Home: / || fas fa-home
-  # List||fas fa-list:
-  #   Music: /music/ || fas fa-music
-  #   Movie: /movies/ || fas fa-video
+首页: / || fas fa-home
+时间轴: /archives/ || fas fa-archive
+标签: /tags/ || fas fa-tags
+分类: /categories/ || fas fa-folder-open
+清单||fa fa-heartbeat:
+友链: /link/ || fas fa-link
+关于: /about/ || fas fa-heart
+
+
+作者: Jerry
+連結: https://butterfly.js.org/posts/4aa8abbe/
+來源: Butterfly
+版權屬於作者所有。商業用途請聯絡作者獲得授權，非商業用途請註明出處。
 
 # --------------------------------------
 # Code Blocks Settings
@@ -46,8 +55,8 @@ code_blocks:
 # Formal:
 #   icon: link || the description || color
 social:
-  # fab fa-github: https://github.com/xxxxx || Github || '#24292e'
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
+   fab fa-github: https://github.com/whhlengyue || Github || '#24292e'
+   fas fa-envelope: mailto:2470917596@qq.com || Email || '#4a7dbe'
 
 # --------------------------------------
 # Image Settings
@@ -56,14 +65,14 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/butterfly-icon.png
+  img: /img/logo.jpg
   effect: false
 
 # Disable all banner images
-disable_top_img: false
+disable_top_img: ture
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img:
+default_top_img: https://oss.012700.xyz/butterfly/2024/10/index.jpg
 
 # The banner image of index page
 index_img:
@@ -93,7 +102,7 @@ footer_img: false
 # Website Background
 # Can set it to color, image URL or an array containing colors and/or image URLs
 # If an array is provided, a random background will be selected from the array on each load
-background:
+background: https://i.loli.net/2019/09/09/5oDRkWVKctx2b6A.png
 
 cover:
   # Disable the cover or not
