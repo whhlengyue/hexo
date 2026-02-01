@@ -11,7 +11,7 @@
 
 nav:
   # Navigation bar logo image
-  logo: /img/logo.jpg
+  logo: 
   display_title: true
   display_post_title: true
   # Whether to fix navigation bar
@@ -58,7 +58,7 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/favicon.png
+favicon: /img/logo.jpg
 
 avatar:
   img: /img/logo.jpg
@@ -93,12 +93,12 @@ category_img:
 category_per_img:
 
 # The background image of footer
-footer_img: 
+footer_img: ture
 
 # Website Background
 # Can set it to color, image URL or an array containing colors and/or image URLs
 # If an array is provided, a random background will be selected from the array on each load
-background: 
+background: /img/background.jpg
 
 cover:
   # Disable the cover or not
@@ -154,7 +154,7 @@ index_top_img_height:
 
 # The subtitle on homepage
 subtitle:
-  enable: false
+  enable: true
   # Typewriter Effect
   effect: true
   # Customize typed.js
@@ -170,6 +170,9 @@ subtitle:
   source: false
   # If you close the typewriter effect, the subtitle will only show the first line of sub
   sub:
+    - 日暮诗成天又雪，与梅并作十分春
+    - 为何到处都是我的雕像？因为我怕你在旅途中没有我感到孤独。出自《葬送的芙莉莲》
+    - The last trial was a big success. People are confessing more and more.
 
 # Article layout on the homepage
 # 1: Cover on the left, info on the right
@@ -207,21 +210,21 @@ toc:
 post_copyright:
   enable: true
   decode: false
-  author_href:
+  author_href: 
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 # Sponsor/reward
 reward:
-  enable: false
+  enable: ture
   text:
   QR_code:
-    # - img: /img/wechat.jpg
-    #   link:
-    #   text: wechat
-    # - img: /img/alipay.jpg
-    #   link:
-    #   text: alipay
+    - img: /img/wechat.jpg
+      link:
+      text: 微信
+    - img: /img/alipay.jpg
+      link:
+      text: 支付宝
 
 # Post edit
 # Easily browse and edit blog source code online.
