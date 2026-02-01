@@ -267,12 +267,12 @@ footer:
   nav:
   owner:
     enable: true
-    since: 2025
+    since: 2026
   # Copyright of theme and framework
   copyright:
     enable: true
     version: true
-  custom_text:
+  custom_text: 欢迎来到我的 <a href="https://www.yunwuxinblog.top/">博客</a>!
 
 # --------------------------------------
 # Aside Settings
@@ -296,11 +296,11 @@ aside:
     button:
       enable: true
       icon: fab fa-github
-      text: Follow Me
-      link: https://github.com/xxxxxx
+      text: 我的Github
+      link: https://github.com/whhlengyue
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: 今天我的博客建好了，快来吧！
   card_recent_post:
     enable: true
     # If set 0 will show all
