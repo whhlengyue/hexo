@@ -18,13 +18,13 @@ nav:
   fixed: false
 
 menu:
-首页: / || fas fa-home
-时间轴: /archives/ || fas fa-archive
-标签: /tags/ || fas fa-tags
-分类: /categories/ || fas fa-folder-open
-清单||fa fa-heartbeat:
-友链: /link/ || fas fa-link
-关于: /about/ || fas fa-heart
+   首页: / || fas fa-home
+   时间轴: /archives/ || fas fa-archive
+   标签: /tags/ || fas fa-tags
+   分类: /categories/ || fas fa-folder-open
+   清单||fa fa-heartbeat:
+   友链: /link/ || fas fa-link
+   关于: /about/ || fas fa-heart
 
 
 作者: Jerry
@@ -72,10 +72,10 @@ avatar:
 disable_top_img: false
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img: 
+default_top_img: /img/top.jpg
 
 # The banner image of index page
-index_img: /img/top.jpg
+index_img: 
 
 # The banner image of archive page
 archive_img:
